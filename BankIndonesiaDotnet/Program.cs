@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello world");
+        // number 1 
+        Console.WriteLine("Number 1 ===");
+        int n = 15;
+        OkYes oy = new OkYes();
+        oy.PrintOkYes(n);
     }
 }
