@@ -28,5 +28,41 @@ public class TriangleAndRectangle
 
             Console.WriteLine();
         }
+
+        Console.WriteLine();
+    }
+
+    public void TriangleC(int n)
+    {
+        for (int i = 0; i <= n; i++)
+        {
+            int k = 1;
+            bool isIncrement = true;
+            for (int j = 0; j < i; j++)
+            {
+                Console.Write(k);
+                if (k == 5)
+                {
+                    isIncrement = false;
+                }
+                else if (k == 1)
+                {
+                    isIncrement = true;
+                }
+
+                if (isIncrement)
+                {
+                    k++;
+                }
+                else
+                {
+                    k--;
+                }
+            }
+
+            Console.WriteLine();
+        }
+
+        Console.WriteLine();
     }
 }

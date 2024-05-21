@@ -22,5 +22,9 @@ class Program
         // point b
         Console.Write("Point B");
         tar.TriangleB(n);
+        
+        // point c
+        Console.Write("Point C");
+        tar.TriangleC(n);
     }
 }
