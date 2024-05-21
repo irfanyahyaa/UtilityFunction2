@@ -34,10 +34,10 @@ public class TriangleAndRectangle
 
     public void TriangleC(int n)
     {
+        int k = 1;
+        bool isIncrement = true;
         for (int i = 0; i <= n; i++)
         {
-            int k = 1;
-            bool isIncrement = true;
             for (int j = 0; j < i; j++)
             {
                 Console.Write(k);
@@ -84,7 +84,7 @@ public class TriangleAndRectangle
 
             Console.WriteLine();
         }
-        
+
         Console.WriteLine();
     }
 }
