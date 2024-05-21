@@ -65,4 +65,26 @@ public class TriangleAndRectangle
 
         Console.WriteLine();
     }
+
+    public void Rectangle(int n)
+    {
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 1; j <= n; j++)
+            {
+                if (j % 2 == 0)
+                {
+                    Console.Write($"{n * j - i} ");
+                }
+                else
+                {
+                    Console.Write($"{n * (j - 1) + i + 1} ");
+                }
+            }
+
+            Console.WriteLine();
+        }
+        
+        Console.WriteLine();
+    }
 }

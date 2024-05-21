@@ -7,12 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382bd457-5676-44ac-8793-36bf266f5671" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankIndonesiaDotnet.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/BankIndonesiaDotnet.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/OkYes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/Program.cs" afterDir="false" />
+    <list default="true" id="382bd457-5676-44ac-8793-36bf266f5671" name="Changes" comment="[FEATURE] add number 2 point C">
+      <change beforePath="$PROJECT_DIR$/BankIndonesiaDotnet/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankIndonesiaDotnet/TriangleAndRectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/TriangleAndRectangle.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/placement test/BankIndonesiaDotnet/BankIndonesiaDotnet/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -82,15 +83,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716260547322</updated>
-      <workItem from="1716260548331" duration="15156000" />
+      <workItem from="1716260548331" duration="16205000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1716283448759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716283448759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[FEATURE] add number 1">
+      <option name="closed" value="true" />
+      <created>1716283490544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716283490544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[FEATURE] add number 2 point b">
+      <option name="closed" value="true" />
+      <created>1716284153458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716284153458</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[FEATURE] add number 2 point B">
+      <option name="closed" value="true" />
+      <created>1716284358270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716284358270</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[FEATURE] add number 2 point C">
+      <option name="closed" value="true" />
+      <created>1716284378340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716284378340</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="[FEATURE] add number 1" />
+    <MESSAGE value="[FEATURE] add number 2 point" />
+    <MESSAGE value="[FEATURE] add number 2 point b" />
+    <MESSAGE value="[FEATURE] add number 2 point B" />
+    <MESSAGE value="[FEATURE] add number 2 point C" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FEATURE] add number 2 point C" />
   </component>
 </project>
