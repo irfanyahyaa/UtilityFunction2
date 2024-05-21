@@ -13,9 +13,14 @@ class Program
         // number 2
         Console.WriteLine("Number 2 ===");
         n = 5;
-        
-        Console.WriteLine("Point A");
         TriangleAndRectangle tar = new TriangleAndRectangle();
+
+        // point a
+        Console.WriteLine("Point A");
         tar.TriangleA(n);
+        
+        // point b
+        Console.Write("Point B");
+        tar.TriangleB(n);
     }
 }
