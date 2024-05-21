@@ -25,5 +25,11 @@ class Program
 
         Console.WriteLine("Point D");
         tar.Rectangle(n);
+                
+        // number 3
+        Console.WriteLine("Number 3 ===");
+        int[] m = new[] { 12, 9, 13, 6, 10, 4, 7, 2 };
+        ArrayManipulation am = new ArrayManipulation();
+        am.FilterAndSort(m);
     }
 }

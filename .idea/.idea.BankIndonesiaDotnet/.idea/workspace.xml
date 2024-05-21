@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382bd457-5676-44ac-8793-36bf266f5671" name="Changes" comment="[FEATURE] add number 2 point C">
+    <list default="true" id="382bd457-5676-44ac-8793-36bf266f5671" name="Changes" comment="[FEATURE] add number 2 point D">
+      <change afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/ArrayManipulation.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BankIndonesiaDotnet/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankIndonesiaDotnet/TriangleAndRectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankIndonesiaDotnet/TriangleAndRectangle.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716260547322</updated>
-      <workItem from="1716260548331" duration="16205000" />
+      <workItem from="1716260548331" duration="16511000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716284378340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[FEATURE] add number 2 point D">
+      <option name="closed" value="true" />
+      <created>1716284589036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716284589036</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +149,7 @@
     <MESSAGE value="[FEATURE] add number 2 point b" />
     <MESSAGE value="[FEATURE] add number 2 point B" />
     <MESSAGE value="[FEATURE] add number 2 point C" />
-    <option name="LAST_COMMIT_MESSAGE" value="[FEATURE] add number 2 point C" />
+    <MESSAGE value="[FEATURE] add number 2 point D" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FEATURE] add number 2 point D" />
   </component>
 </project>
